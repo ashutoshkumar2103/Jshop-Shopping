@@ -31,7 +31,7 @@ To run the project successfully, make sure you have the following dependencies a
 1. Clone the project from the repository. (You should have downloaded the project through spring initializr, adding the needed dependencies and mentioning the needed details)
 2. Import the project into your Eclipse or STS environment.
 3. Configure your MySQL database settings in the application.properties file.
-4. Build and run the project.
+4. Build and run the project (run as spring boot app)
 5. Open your web browser and navigate to the appropriate URL to access the platform.
 
 ▶ Maintainer of the project:
