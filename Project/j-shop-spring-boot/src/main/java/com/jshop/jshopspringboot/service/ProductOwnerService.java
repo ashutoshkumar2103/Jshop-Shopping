@@ -13,7 +13,7 @@ import jakarta.servlet.http.HttpSession;
 
 /**
  * 
- * @author Mo Masood Ansari
+ * @author Ashutosh
  *
  */
 @Service
@@ -73,8 +73,7 @@ public class ProductOwnerService {
 		return responseStructure;
 	}
 	
-	/*
-	 * 
+	/* 
 	 * loginWithProductOwner
 	 */
 	public ResponseStructure<ProductOwner> loginWithProductOwner(String email,String password) {
@@ -112,6 +111,10 @@ public class ProductOwnerService {
 		}
 		return responseStructure;
 	}
+
+	/* 
+	 * updateProductOwner
+	 */
 	
 	public ResponseStructure<ProductOwner> updateProductOwnerService(ProductOwner productOwner) {
  		ProductOwner productOwner2 = ownerDao.updateProductOwnerDao(productOwner);
