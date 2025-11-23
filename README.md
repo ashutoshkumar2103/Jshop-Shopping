@@ -44,7 +44,4 @@ To run the project successfully, make sure you have the following dependencies a
 ▶ License:
 ­This project is open-source
 
-___________________________________________________________________________________________________________________________________________________________________________________________
-
-Thank you for choosing the JSpider Shopping Platform. We hope you find it useful and welcome any contributions or feedback to make this platform even better. Happy shopping!
-For detailed documentation and further information, please contact the project author, Ashutosh Kumar, at ashuatif14347@gmail.com.
+________________________________________________________________________________________________________________________________________________________________________
